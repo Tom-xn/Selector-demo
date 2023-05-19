@@ -1,0 +1,18 @@
+body{
+    background: rgba(150, 145, 131, 0.798);
+}
+*{
+    border: rgba(10,123,255,0.798) 2px solid;
+}
+ul li a{
+    color: rgba(252, 38, 0, 0.863);
+}
+h4 + ul{
+    border: rgba(149, 255, 10, 0.798) 3px solid;
+}
+a[href="http://www.google.com"]{
+    background: rgba(218, 104, 203, 0.87);
+}
+ul:nth-of-type(1){
+background: olivedrab;
+}
